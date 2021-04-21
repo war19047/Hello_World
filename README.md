@@ -26,5 +26,6 @@ Some of the tools I used to create my hello world program are:
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Using Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
+
+* [Working with Github in VS Code](https://code.visualstudio.com/docs/editor/github)
