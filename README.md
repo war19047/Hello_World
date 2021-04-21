@@ -1,6 +1,6 @@
 # Overview
 
-I am trying to learn how to use Git and Github in sync with Visual Studio Code. This program is intended to give me experience using version control.
+I am learning how to use Git and Github in sync with Visual Studio Code. This program is intended to give me experience using version control.
 
 
 My software introduces myself to the world of coding. I have just set up version control on my IDE and this program is intended to be an icebreaker into using version control. 
